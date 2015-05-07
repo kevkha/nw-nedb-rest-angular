@@ -1,0 +1,23 @@
+{
+  "name": "nw-nedb-rest-angular",
+  "description": "Node-Webkit, NeDB, REST, and AngularJs",
+  "version": "0.0.1",
+  "main": "index.html",
+  "window": {
+    "title": "My Contacts",
+    "toolbar": true,
+    "frame": true,
+    "position": "center",
+    "fullscreen": false,
+    "resizable": true,
+    "width": 800,
+    "height": 600
+  },
+  "node-remote": "<local>",
+  "dependencies": {
+    "body-parser": "^1.12.3",
+    "express": "4.x",
+    "morgan": "^1.5.2",
+    "nedb": "1.x"
+  }
+}
