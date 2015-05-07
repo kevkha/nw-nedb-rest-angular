@@ -1,6 +1,9 @@
 nw-nedb-rest-angular
 =============================
 
+Inspired by https://github.com/buberdds/node-webkit-nedb-rest-angular
+Moving to Express 4 and updated NeDB. Also, changed the demo from Items to Contacts.
+
 AngularJS native desktop app (nw, nedb, express, rest, angular)
 
 ```
